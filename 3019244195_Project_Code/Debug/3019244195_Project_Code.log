@@ -1,0 +1,103 @@
+﻿  camera.cpp
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\camera.h(26,16): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\camera.cpp(64,13): warning C4305: “+=”: 从“double”到“float”截断
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\camera.cpp(68,13): warning C4305: “-=”: 从“double”到“float”截断
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\camera.cpp(72,15): warning C4305: “-=”: 从“double”到“float”截断
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\camera.cpp(76,15): warning C4305: “+=”: 从“double”到“float”截断
+  main.cpp
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\camera.h(26,16): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(85,75): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(92,64): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(347,30): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(458,42): warning C4244: “+=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(460,53): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(475,42): warning C4244: “+=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(477,20): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(478,20): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(479,20): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(480,20): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(484,46): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(485,44): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(486,36): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(495,57): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(496,58): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(518,41): warning C4244: “+=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(520,20): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(521,20): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(522,20): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(523,20): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(528,44): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(529,42): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(530,34): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(562,41): warning C4244: “+=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(564,78): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(565,78): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(588,41): warning C4244: “+=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(590,20): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(591,20): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(592,20): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(593,20): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(599,44): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(600,42): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(601,34): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(613,56): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(614,57): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(643,41): warning C4244: “+=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(645,20): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(646,20): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(647,20): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(648,20): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(654,44): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(655,42): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(656,34): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(668,56): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(669,56): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(698,41): warning C4244: “+=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(700,54): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(719,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(723,32): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(730,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(740,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(743,32): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(750,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(753,33): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(760,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(763,33): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(774,20): warning C4805: “==”: 在操作中将类型“GLboolean”与类型“bool”混合不安全
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(903,21): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(904,21): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(911,21): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(912,21): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(932,21): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(933,21): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(940,21): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\main.cpp(941,21): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+  mesh.cpp
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\camera.h(26,16): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\mesh.cpp(153,20): warning C4018: “<”: 有符号/无符号不匹配
+  model.cpp
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\model.cpp(108,17): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\model.cpp(109,17): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\model.cpp(110,17): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\model.cpp(256,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\model.cpp(334,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\model.cpp(351,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\model.cpp(361,20): warning C4018: “<”: 有符号/无符号不匹配
+  objMesh.cpp
+  objModel.cpp
+  shader.cpp
+  skybox.cpp
+  tiger.cpp
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\tiger.cpp(106,15): warning C4305: “-=”: 从“double”到“float”截断
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\tiger.cpp(111,19): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+  wuSong.cpp
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\wuSong.cpp(46,32): warning C4305: “=”: 从“double”到“float”截断
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\wuSong.cpp(55,33): warning C4305: “=”: 从“double”到“float”截断
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\wuSong.cpp(64,31): warning C4305: “=”: 从“double”到“float”截断
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\wuSong.cpp(73,32): warning C4305: “=”: 从“double”到“float”截断
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\wuSong.cpp(170,15): warning C4305: “-=”: 从“double”到“float”截断
+D:\openGL_vs\code\3019244195_Project_Code\3019244195_Project_Code\wuSong.cpp(175,19): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+  正在生成代码...
+  glad.c
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  3019244195_Project_Code.vcxproj -> D:\openGL_vs\code\3019244195_Project_Code\Debug\3019244195_Project_Code.exe
